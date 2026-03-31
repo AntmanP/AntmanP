@@ -4,7 +4,7 @@
 
 I'm a **Software Engineer** with experience building **scalable backend systems, APIs, and data-driven applications**, with a strong foundation in **machine learning and LLM-powered systems**.
 
-* 💼 Currently: Software Developer @ ArcelorMittal
+* 💼 Currently: **Software Developer @ ArcelorMittal**
 * 🧠 Focus: **Backend Systems, Distributed Systems, and Applied ML**
 * ⚡ Strengths: **Performance optimization, system design, and production-grade code**
 * 🤖 Built: **Scalable backend systems, RAG systems, NLP models, and ML-powered applications**
@@ -66,13 +66,14 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em"
+  <img width="420"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntmanP&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntmanP&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="420"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntmanP&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 👁️ Profile Views
