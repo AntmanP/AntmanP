@@ -42,29 +42,7 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-2E8B57?style=for-the-badge)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</p>
-
----
-
-### 👁️ Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
+----
 ### 🤝 Connect With Me
 
 * 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/antarang-poogalia-0a928a178/)
@@ -81,3 +59,25 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 ### 🧠 Neetcode
 - 🧩 [Neetcode - 96 solved](https://neetcode.io/profile)
 - 🧩 [Leetcode](https://leetcode.com/u/codename_code/)
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=AntmanP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntmanP&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=AntmanP&label=Profile%20views&color=blueviolet&style=flat-square" />
+</p>
