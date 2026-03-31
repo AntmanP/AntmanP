@@ -51,8 +51,8 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 ---
 
 ### 🧠 Currently Exploring
-- Reading Designing data intensive applications - System Design (scalability, distributed systems)
-- LLM-powered backend systems (RAG, agents)
+- 📘 Reading *Designing Data-Intensive Applications* – Deep dive into system design, scalability, and distributed systems  
+- ⚙️ LLM-powered backend systems (RAG, agents, orchestration)  
 
 ---
 
@@ -67,11 +67,10 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 
 <p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=AntmanP&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntmanP&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntmanP&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
+  <img height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AntmanP&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
