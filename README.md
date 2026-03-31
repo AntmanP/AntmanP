@@ -17,8 +17,6 @@
 ## 👋 Hi, I'm Antarang
 
 I'm a **Software Engineer** focused on building **scalable backend systems, APIs, and ML-powered applications**.
-
-- 💼 **Software Developer**
 - 🧠 Focus: **Backend Systems, Distributed Systems, Applied ML**
 - ⚡ Strengths: **Performance Optimization, System Design, Production Systems**
 - 🤖 Experience with: **RAG systems, NLP, LLM pipelines**
