@@ -6,9 +6,9 @@
 <h2 align="center">🚀 Software Engineer | Backend • Distributed Systems • Applied ML</h2>
 
 <p align="center">
-  <a href="mailto:antarangpo@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/antarang-poogalia-0a928a178/">💼 LinkedIn</a> •
-  <a href="https://leetcode.com/u/codename_code/">🧩 LeetCode</a>
+  <a href="mailto:antarangpo@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/antarang-poogalia-0a928a178/">💼 LinkedIn</a> |
+  <a href="https://leetcode.com/u/codename_code/">🧩 LeetCode</a> |
   <a href="https://antmanp.github.io/AntarangPoogaliaDev/">📘 Portfolio</a>
 </p>
 
