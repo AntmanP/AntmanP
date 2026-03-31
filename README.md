@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Antarang Poogalia
 
-<img align="right" alt="coding gif" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ### 🚀 Software Engineer | Backend & Full Stack | Applied ML
 
 I'm a **Software Engineer** with experience building **scalable backend systems, APIs, and data-driven applications**, with a strong foundation in **machine learning and LLM-powered systems**.
@@ -49,15 +47,27 @@ I'm a **Software Engineer** with experience building **scalable backend systems,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img height="180em"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</p>
+
+---
+
+### 👁️ Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/antarang-poogalia-0a928a178/
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/antarang-poogalia-0a928a178/)
 * 📧 Email: [antarangpo@gmail.com](mailto:antarangpo@gmail.com)
 
 ---
